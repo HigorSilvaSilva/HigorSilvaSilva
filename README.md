@@ -1,10 +1,12 @@
-### Olá! Eu sou HigorSilvaSilva
+<h1 aling="center">Olá! Eu sou o Higor</h1>
 
-- 🌱 Estudando Banco de Dados
+- 📌 Estudando Banco de Dados
+- 🧠 Habilidades: HTML, C#, CSS, Java.
+- 📚 Engenharia da Computação, UNASP
 - 📫 Contate-me no e-mail: higorgabrielgabrielsilva@gmail.com
-- 😄 Pronome: ele/dele
 
-##
+
+<h1 aling="center">⚙ GitHub Stats</h1>
 
 <div align="center">
   <a href="https://github.com/HigorSilvaSilva">
@@ -12,13 +14,12 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorSilvaSilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Higor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Higor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Higor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Higor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Higor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Higor-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
   
    ##
  
