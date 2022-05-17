@@ -1,4 +1,4 @@
-<h1 aling="center">Olá! Eu sou o Higor</h1>
+<h1 aling="center">Olá! Eu sou o Higor 👋🏻</h1>
 
 - 📌 Estudando Banco de Dados
 - 🧠 Habilidades: HTML, C#, CSS, Java.
