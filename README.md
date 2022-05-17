@@ -1,6 +1,6 @@
 ### Olá! Eu sou HigorSilvaSilva
 
-- 🌱 Estudando Bando de Dados
+- 🌱 Estudando Banco de Dados
 - 📫 Contate-me no e-mail: higorgabrielgabrielsilva@gmail.com
 - 😄 Pronome: ele/dele
 
